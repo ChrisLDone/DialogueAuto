@@ -1,0 +1,6 @@
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject1\obj\Debug\CodedUITestProject1.Properties.Resources.resources
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.GenerateResource.Cache

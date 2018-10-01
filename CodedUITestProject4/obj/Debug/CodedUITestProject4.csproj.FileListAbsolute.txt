@@ -1,0 +1,4 @@
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject4\bin\Debug\CodedUITestProject4.dll
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject4\bin\Debug\CodedUITestProject4.pdb
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject4\obj\Debug\CodedUITestProject4.dll
+C:\Users\Chris.Done\Desktop\Direct\CodedUITestProject4\obj\Debug\CodedUITestProject4.pdb

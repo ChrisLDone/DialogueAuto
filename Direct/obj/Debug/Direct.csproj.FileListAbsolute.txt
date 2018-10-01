@@ -1,0 +1,76 @@
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Default.srprofile
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Direct.dll.config
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Direct.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Direct.pdb
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\appium-dotnet-driver.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Castle.Core.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\nunit.framework.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\TechTalk.SpecFlow.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\TechTalk.SpecRun.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\WebDriver.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\WebDriver.Support.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\appium-dotnet-driver.xml
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Castle.Core.xml
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\Newtonsoft.Json.xml
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\nunit.framework.xml
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\WebDriver.xml
+C:\TFS\Develop\Automation\Website\Direct\Direct\bin\Debug\WebDriver.Support.xml
+C:\TFS\Develop\Automation\Website\Direct\Direct\obj\Debug\Direct.dll
+C:\TFS\Develop\Automation\Website\Direct\Direct\obj\Debug\Direct.pdb
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Default.srprofile
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Direct.dll.config
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Direct.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Direct.pdb
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\appium-dotnet-driver.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Castle.Core.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Newtonsoft.Json.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\nunit.framework.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\SpecRun.SpecFlowPlugin.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\TechTalk.SpecFlow.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\TechTalk.SpecRun.Common.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\TechTalk.SpecRun.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\WebDriver.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\WebDriver.Support.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\appium-dotnet-driver.xml
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Castle.Core.xml
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Newtonsoft.Json.xml
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\nunit.framework.xml
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\WebDriver.xml
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\WebDriver.Support.xml
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\obj\Debug\Direct.csprojResolveAssemblyReference.cache
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\obj\Debug\Direct.dll
+\\itliv-nas03\development team\E2E\E2E Regression new\Automation\Website\Direct\Direct\obj\Debug\Direct.pdb
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Default.srprofile
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Direct.dll.config
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Direct.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Direct.pdb
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\appium-dotnet-driver.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Castle.Core.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\nunit.framework.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\WebDriver.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\WebDriver.Support.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\appium-dotnet-driver.xml
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Castle.Core.xml
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\nunit.framework.xml
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\WebDriver.xml
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\WebDriver.Support.xml
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Chris.Done\Desktop\Direct\Direct\obj\Debug\Direct.dll
+C:\Users\Chris.Done\Desktop\Direct\Direct\obj\Debug\Direct.pdb
+C:\Users\Chris.Done\Desktop\Direct\Direct\obj\Debug\Direct.csprojResolveAssemblyReference.cache
+C:\Users\Chris.Done\Desktop\Direct\Direct\obj\Debug\Direct.Properties.Resources.resources
+C:\Users\Chris.Done\Desktop\Direct\Direct\obj\Debug\Direct.csproj.GenerateResource.Cache
+C:\Users\Chris.Done\Desktop\Direct\Direct\bin\Debug\OrderedTest1.orderedtest
