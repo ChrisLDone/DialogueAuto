@@ -3,3 +3,9 @@ C:\Users\Chris.Done\Desktop\Direct\Landscape Auto\bin\Debug\Landscape Auto.pdb
 C:\Users\Chris.Done\Desktop\Direct\Landscape Auto\obj\Debug\Landscape Auto.dll
 C:\Users\Chris.Done\Desktop\Direct\Landscape Auto\obj\Debug\Landscape Auto.pdb
 C:\Users\Chris.Done\Desktop\Direct\Landscape Auto\obj\Debug\Landscape Auto.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\DialogueAuto\Landscape Auto\bin\Debug\Landscape Auto.dll
+C:\Users\Chris\Documents\GitHub\DialogueAuto\Landscape Auto\bin\Debug\Landscape Auto.pdb
+C:\Users\Chris\Documents\GitHub\DialogueAuto\Landscape Auto\obj\Debug\Landscape Auto.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\DialogueAuto\Landscape Auto\obj\Debug\Landscape Auto.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GitHub\DialogueAuto\Landscape Auto\obj\Debug\Landscape Auto.dll
+C:\Users\Chris\Documents\GitHub\DialogueAuto\Landscape Auto\obj\Debug\Landscape Auto.pdb

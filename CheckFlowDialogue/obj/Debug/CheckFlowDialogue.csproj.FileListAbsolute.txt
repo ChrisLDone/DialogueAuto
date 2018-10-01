@@ -3,3 +3,9 @@ C:\Users\Chris.Done\Desktop\Direct\CheckFlowDialogue\bin\Debug\CheckFlowDialogue
 C:\Users\Chris.Done\Desktop\Direct\CheckFlowDialogue\obj\Debug\CheckFlowDialogue.dll
 C:\Users\Chris.Done\Desktop\Direct\CheckFlowDialogue\obj\Debug\CheckFlowDialogue.pdb
 C:\Users\Chris.Done\Desktop\Direct\CheckFlowDialogue\obj\Debug\CheckFlowDialogue.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\DialogueAuto\CheckFlowDialogue\bin\Debug\CheckFlowDialogue.dll
+C:\Users\Chris\Documents\GitHub\DialogueAuto\CheckFlowDialogue\bin\Debug\CheckFlowDialogue.pdb
+C:\Users\Chris\Documents\GitHub\DialogueAuto\CheckFlowDialogue\obj\Debug\CheckFlowDialogue.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\DialogueAuto\CheckFlowDialogue\obj\Debug\CheckFlowDialogue.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GitHub\DialogueAuto\CheckFlowDialogue\obj\Debug\CheckFlowDialogue.dll
+C:\Users\Chris\Documents\GitHub\DialogueAuto\CheckFlowDialogue\obj\Debug\CheckFlowDialogue.pdb
